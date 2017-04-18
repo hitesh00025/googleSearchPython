@@ -11,7 +11,7 @@ def main():
             developerKey="AIzaSyAyO9ZSUrVBFbgPhE7_iaXDBRr35F_SdwQ")
 
   res = service.cse().list(
-      q='lectures',
+      q='hitesh kumar merck',
       cx='001651119929652751903:hsy37cecsye',
     ).execute()
   pprint.pprint(res)
