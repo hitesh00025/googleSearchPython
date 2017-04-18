@@ -15,7 +15,9 @@
    Command : pip install google-api-python-client
    
    
-4. Enable Custom Search API DISABLE from https://console.developers.google.com/
+4. Enable Custom Search API  from https://console.developers.google.com/
+
+search for this API>>Enable
 
 
 5. Run code : python googleSearchAPI.py
