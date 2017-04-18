@@ -2,21 +2,23 @@
 
 1. Setup Google API Key: 
    Go to : https://console.developers.google.com/apis/credentials?project=test-search-164923
+   
    create Creditionals >> API KEYS >> Create.
    
 2. Setup custom search engine
    go to : https://cse.google.com/cse/
+   
    createsearchEngine >> Add a dummy URL >> Delete the URL after its created.
    
    
-3. install Google API client for Python
+3. Install Google API client for Python
    Command : pip install google-api-python-client
    
    
 4. Enable Custom Search API DISABLE from https://console.developers.google.com/
 
 
-5. Run code :python googleSearchAPI.py
+5. Run code : python googleSearchAPI.py
 
 Output :
 
